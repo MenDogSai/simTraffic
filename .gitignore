@@ -362,5 +362,5 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-# Fody - auto-generated XML schema
+# 리소스로 사용할 이미지 파일 업로드 하지 않음
 *.png
